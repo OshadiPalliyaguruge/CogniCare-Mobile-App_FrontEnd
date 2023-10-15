@@ -1,5 +1,5 @@
-import 'dart:ffi';
 import 'package:cognicare/screens/speak.dart';
+import 'package:cognicare/screens/textToSign.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../reusables/reusable.dart';
@@ -385,7 +385,7 @@ class _LearnPageState extends State<LearnPage> {
                              SizedBox(
                                width: MediaQuery.of(context).size.width*0.01,
                              ),
-                             BlockSet2(context,"A-Z",'1.png',SpeakPage(),0.2,Icons.sort_by_alpha),
+                             BlockSet2(context,"A-Z",'1.png',TextToSignPage(),0.2,Icons.sort_by_alpha),
                            ]
                        ),
 

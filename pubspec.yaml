@@ -62,6 +62,11 @@ flutter:
     - assets/background.png
     - assets/mic.png
     - assets/1.png
+    - assets/sign1.jpg
+    - assets/textimg1.png
+    - assets/sign2.jpg
+    - assets/texting2.png
+    - assets/sign3.webp
     
 
   # To add assets to your application, add an assets section, like this:
