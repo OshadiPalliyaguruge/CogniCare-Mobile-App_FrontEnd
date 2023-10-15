@@ -10,7 +10,7 @@ class SpeakPage extends StatefulWidget {
   @override
   State<SpeakPage> createState() => _SpeakPageState();
 }
-
+ 
 class _SpeakPageState extends State<SpeakPage> {
 
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();

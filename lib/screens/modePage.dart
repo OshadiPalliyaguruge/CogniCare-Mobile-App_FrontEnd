@@ -10,7 +10,7 @@ class ModePage extends StatefulWidget {
   @override
   State<ModePage> createState() => _ModePageState();
 }
-
+ 
 class _ModePageState extends State<ModePage> {
 
   final GlobalKey<ScaffoldState> _scaffoldKey = GlobalKey<ScaffoldState>();

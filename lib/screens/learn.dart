@@ -6,7 +6,7 @@ import '../reusables/reusable.dart';
 import 'homePage.dart';
 import 'modePage.dart';
 
-
+ 
 class LearnPage extends StatefulWidget {
   const LearnPage({super.key});
 

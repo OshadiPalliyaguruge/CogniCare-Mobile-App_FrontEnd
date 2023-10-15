@@ -16,7 +16,7 @@ class _TextToSignPageState extends State<TextToSignPage> {
   void _handleSubmit(BuildContext context) {
     String inputText = _textController.text;
 
-
+ 
   }
 
 

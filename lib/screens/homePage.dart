@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
                                   fontWeight: FontWeight.bold,
                                   fontSize: MediaQuery.of(context).size.height*0.03),),
                           ),
-
+ 
                           GestureDetector(
                             onTap: (){
                               Navigator.push(
