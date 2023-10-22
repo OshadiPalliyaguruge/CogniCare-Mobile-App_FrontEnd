@@ -2,11 +2,12 @@ import 'package:cognicare/reusables/reusable.dart';
 import 'package:cognicare/screens/homePage.dart';
 import 'package:cognicare/screens/learn.dart';
 import 'package:cognicare/screens/speak.dart';
+import 'package:cognicare/screens/textToSign.dart';
 import 'package:flutter/material.dart';
 
 class ModePage extends StatefulWidget {
   const ModePage({super.key});
-
+  
   @override
   State<ModePage> createState() => _ModePageState();
 }
@@ -172,7 +173,7 @@ class _ModePageState extends State<ModePage> {
                       SizedBox(
                         width: MediaQuery.of(context).size.width*0.05,
                       ),
-                      BlockSet1(context,"SPEAK",'1.png',SpeakPage()),
+                      BlockSet1(context,"SPEAK",'1.png',TextToSignPage()),
                           ]
                       )
                     ],

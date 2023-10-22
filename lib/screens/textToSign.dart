@@ -263,8 +263,6 @@ class _TextToSignPageState extends State<TextToSignPage> {
 
           ),
         )
-
-
     );
   }
 }

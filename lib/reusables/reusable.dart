@@ -3,7 +3,7 @@ import 'dart:ffi';
 import 'package:flutter/material.dart';
 
 import '../screens/modePage.dart';
-
+ 
 Container BlockSet1(BuildContext context, String text, String imageName, Widget page) {
   return  Container(
       margin: EdgeInsets.only(

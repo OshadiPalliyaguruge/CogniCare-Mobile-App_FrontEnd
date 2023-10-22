@@ -6,7 +6,7 @@ import '../reusables/reusable.dart';
 import 'homePage.dart';
 import 'modePage.dart';
 
- 
+     
 class LearnPage extends StatefulWidget {
   const LearnPage({super.key});
 
@@ -385,7 +385,7 @@ class _LearnPageState extends State<LearnPage> {
                              SizedBox(
                                width: MediaQuery.of(context).size.width*0.01,
                              ),
-                             BlockSet2(context,"A-Z",'1.png',TextToSignPage(),0.2,Icons.sort_by_alpha),
+                             BlockSet2(context,"A-Z",'1.png',LearnPage(),0.2,Icons.sort_by_alpha),
                            ]
                        ),
 
