@@ -48,7 +48,6 @@ class _emotionsPageState extends State<emotionsPage> {
         '\n\n\t\t\t\t\t\t\t' 'How to Say Slow Down in ASL',
     'Feelings and Emotions'
         '\n\n\t\t\t\t\t\t\t' 'How to Show Emotions in ASL',
-
   ];
 
   @override

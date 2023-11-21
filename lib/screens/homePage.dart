@@ -67,7 +67,7 @@ class _HomePageState extends State<HomePage> {
                                 .height * 0.02,),
 
                           Text(
-                            'Qorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam eu turpis molestie, dictum est a, mattis tellus.Qorem ipsum dolor sit amet, consectetur adipiscing elitQorem ipsum dolor sit amet, consectetur adipiscing elit,\n',
+                            'This app is used to convert text into sign language signs. So mainly, dumb people can easily communicate in public places.Deaf people can recognize what we are saying to them and respond them.This app is very useful for both dump and deaf people.  It helps them to communicate with the society in a better way.''\n''Another main feature of this app is the learning platform. It provides supplementary resources; such as sign language learning materials to help users improve their sign language skills or expand their vocabulary.They can learn about the signs using provided videos.''\n',
                             textAlign: TextAlign.start,
                             style: TextStyle(
                                 color: Colors.white,

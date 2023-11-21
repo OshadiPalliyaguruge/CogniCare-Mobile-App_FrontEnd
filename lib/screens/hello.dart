@@ -32,7 +32,6 @@ class _HelloPageState extends State<HelloPage> {
     'https://youtu.be/2XAzHCVS7m4?si=t-8avCtOP1K91bza',
     'https://youtu.be/p62KvYKfKC8?si=chE33zpmgtk2w0iW',
 
-    // Add more video URLs as needed
   ];
 
   // Custom names for each item
