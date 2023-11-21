@@ -3,12 +3,15 @@ import 'dart:ffi';
 import 'package:flutter/material.dart';
 
 import '../screens/modePage.dart';
+import 'package:cognicare/screens/hello.dart';
  
 Container BlockSet1(BuildContext context, String text, String imageName, Widget page) {
   return  Container(
       margin: EdgeInsets.only(
           top:MediaQuery.of(context).size.height*0.7,
-          left: MediaQuery.of(context).size.width*0.073),
+          left: MediaQuery.of(context).size.width*0.073
+      ),
+
           width: MediaQuery.of(context).size.width * 0.35,
           height: MediaQuery.of(context).size.width * 0.5,
           decoration: BoxDecoration(

@@ -1,8 +1,12 @@
+import 'package:cognicare/reusables/learnSigns.dart';
+import 'package:cognicare/screens/hello.dart';
 import 'package:cognicare/screens/speak.dart';
 import 'package:cognicare/screens/textToSign.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import '../reusables/reusable.dart';
+import 'answerPage.dart';
+import 'emotionsPage.dart';
 import 'homePage.dart';
 import 'modePage.dart';
 
@@ -381,21 +385,21 @@ class _LearnPageState extends State<LearnPage> {
 
                        Row(
                            children: [
-                             BlockSet2(context,"Hello",'1.png',LearnPage(),0.6,Icons.accessibility_sharp),
+                             BlockSet2(context,"Hello",'1.png',HelloPage(),0.6,Icons.accessibility_sharp),
                              SizedBox(
                                width: MediaQuery.of(context).size.width*0.01,
                              ),
-                             BlockSet2(context,"A-Z",'1.png',LearnPage(),0.2,Icons.sort_by_alpha),
+                             BlockSet2(context,"A-Z",'1.png',LearnSignPage(videoUrl:'https://youtu.be/bFv_mLwBvHc?si=EvoQW9NXPOWcC_DU'),0.2,Icons.sort_by_alpha),
                            ]
                        ),
 
                        Row(
                            children: [
-                             BlockSet2(context,"Love",'1.png',LearnPage(),0.5,Icons.heart_broken_sharp),
+                             BlockSet2(context,"Love",'1.png',emotionsPage(),0.5,Icons.heart_broken_sharp),
                              SizedBox(
                                width: MediaQuery.of(context).size.width*0.01,
                              ),
-                             BlockSet2(context,"Answer",'1.png',SpeakPage(),0.8,Icons.menu_book_sharp),
+                             BlockSet2(context,"Answer",'1.png',answerPage(),0.8,Icons.menu_book_sharp),
                            ]
                        )
 
