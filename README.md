@@ -43,13 +43,13 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 
 
  <div align='center'>
-    <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/1.png" width="400" align="left">
+    <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/1.png" width="400" align="center">
 </div>
 
 
 ## Technologies used in developing 
  <div align='center'>
-     <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/2.png" width="400" align="left">
+     <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/2.png" width="400" align="center">
      </div>
 
 
