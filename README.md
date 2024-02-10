@@ -41,19 +41,18 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 
 ## User Interfaces
 
- <ol>
+ <ul>
     <li> Home Page and Mode Page</li>
-<li><div align='center'>
+<div align='center'>
     <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/1.png" width="400" align="left">
 </div>
- </li> 
-   <li>
-    <ul> 
-    <li>Speak Mode</li>
-     <li><div align='center'>
+ </ul>
+
+
+ <ul>
+    <li> Speak Mode </li>
+<div align='center'>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/2.png" width="400" align="left">
      </div>
-      </li>
-    </ul>
-   </li>
- </ol>
+ </ul>
+  
