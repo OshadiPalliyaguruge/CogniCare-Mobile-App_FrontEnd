@@ -56,7 +56,7 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
      </div>
 
   ##### Output Signs
- <div align='center'>
+ <div align='left'>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/speak.png" width="300" align="center">
      </div>
  <ul>
@@ -83,12 +83,12 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/hello.png" width="200" align="center">
 </div>
 
-<div align='center'>
+<div align='left'>
  <p>A-Z</p>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/AZ.png" width="200" align="center">
 </div>
 
-<div align='right'>
+<div align='left'>
  <p>Love</p>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/love.png" width="200" align="center">
 </div>
