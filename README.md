@@ -55,7 +55,7 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 <ul>
 
  
- <li>     Speak Mode</li>
+##### Speak Mode
 </ul>
  <div align='left'>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/2.png" width="300" align="center">
@@ -69,7 +69,7 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 
 
   
- <li>     Learn Mode</li>
+##### Learn Mode
  
  </ul>
  <div align='left'>
