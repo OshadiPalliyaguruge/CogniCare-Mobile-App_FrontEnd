@@ -63,6 +63,7 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 
   
  <li>     Learn Mode</li>
+ 
  </ul>
  <div align='left'>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/learn.png" width="200" align="center">
@@ -75,3 +76,8 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
  <li>Love</li>
  <li>Answer</li>
 </ol>
+
+Hello
+<div align='left'>
+     <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/hello.png" width="200" align="center">
+</div>
