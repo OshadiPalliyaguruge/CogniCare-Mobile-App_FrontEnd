@@ -8,6 +8,6 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 ## Architecture of the System
 
 <div align='center'>
-    <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/Architecture%20Diagram.png" width="800" align="center">
+    <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/Architecture%20Diagram.png" width="600" align="center">
 </div>
 
