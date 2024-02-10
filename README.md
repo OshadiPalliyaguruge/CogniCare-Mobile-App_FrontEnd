@@ -94,6 +94,7 @@ The CogniCare App is a revolutionary tool designed to empower non-verbal individ
 #### Love
 
 <div align='left'>
+ <p>#### Love</p>
      <img src="https://github.com/OshadiPalliyaguruge/CE_CogniCare/blob/main/assets/love.png" width="200" align="center">
 </div>
 
